@@ -32,7 +32,7 @@ Veriler Isar veritabanında saklanır ve kalıcı hale getirilir.
 # Repoyu klonla
 
 ```bash
-git clone https://github.com/rafettcelikk/Flutter-Words_App.git
+git clone https://github.com/rafettcelikk/Flutter-Words-App.git
 
 ```
 
